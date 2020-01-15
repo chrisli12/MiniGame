@@ -21,7 +21,7 @@ def rand_monster_attack():
 while game_running:
     # this is a dictionary, it can store key-matching value
     player = {"name": "Chris", "attack": 10, "heal": 20, "health": 100}
-    monster = {'name': 'MadMax', 'attack_min': 5, 'attack_max': 20, 'health': 100}
+    monster = {'name': 'MadMax', 'attack_min': 5, 'attack_max': 30, 'health': 100}
     # enter player name
     print('---' * 10)
     print('enter player name')

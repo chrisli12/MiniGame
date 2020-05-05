@@ -33,7 +33,7 @@ while game_running:
     # while this round is not false
     new_round = True
     while new_round:
-        player_won = False
+        player_won = Falsex
         monster_won = False
 
         print("Monster's health now:")
